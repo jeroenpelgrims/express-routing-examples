@@ -1,1 +1,1 @@
-This is the source code for an example mentioned on a blog post: http://blog.jeroenpelgrims.be/express-4-namespacingrouting/
+This is the source code for an example mentioned on a blog post: https://jeroenpelgrims.com/express-4-namespacingrouting/
